@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\Projetos\\CSharp\\Desafio-CSharp\\Desafio-J\\Desafio-J.csproj",
-      "projectName": "Desafio-J",
-      "projectPath": "D:\\Arquivos\\Projetos\\CSharp\\Desafio-CSharp\\Desafio-J\\Desafio-J.csproj",
+      "projectUniqueName": "D:\\Arquivos\\Projetos\\CSharp\\Desafio-CSharp\\Desafio-N\\Desafio-N.csproj",
+      "projectName": "Desafio-N",
+      "projectPath": "D:\\Arquivos\\Projetos\\CSharp\\Desafio-CSharp\\Desafio-N\\Desafio-N.csproj",
       "packagesPath": "C:\\Users\\wavy\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos\\Projetos\\CSharp\\Desafio-CSharp\\Desafio-J\\obj\\",
+      "outputPath": "D:\\Arquivos\\Projetos\\CSharp\\Desafio-CSharp\\Desafio-N\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wavy\\AppData\\Roaming\\NuGet\\NuGet.Config",

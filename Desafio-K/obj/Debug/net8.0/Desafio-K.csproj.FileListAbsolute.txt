@@ -1,0 +1,15 @@
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.AssemblyInfoInputs.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.AssemblyInfo.cs
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.sourcelink.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\bin\Debug\net8.0\Desafio-K.exe
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\bin\Debug\net8.0\Desafio-K.deps.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\bin\Debug\net8.0\Desafio-K.runtimeconfig.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\bin\Debug\net8.0\Desafio-K.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\bin\Debug\net8.0\Desafio-K.pdb
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\refint\Desafio-K.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.pdb
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\Desafio-K.genruntimeconfig.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-K\obj\Debug\net8.0\ref\Desafio-K.dll
