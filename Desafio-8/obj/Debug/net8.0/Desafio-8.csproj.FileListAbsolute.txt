@@ -1,0 +1,15 @@
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\bin\Debug\net8.0\Desafio-8.exe
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\bin\Debug\net8.0\Desafio-8.deps.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\bin\Debug\net8.0\Desafio-8.runtimeconfig.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\bin\Debug\net8.0\Desafio-8.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\bin\Debug\net8.0\Desafio-8.pdb
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.AssemblyInfoInputs.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.AssemblyInfo.cs
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.sourcelink.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\refint\Desafio-8.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.pdb
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\Desafio-8.genruntimeconfig.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-8\obj\Debug\net8.0\ref\Desafio-8.dll

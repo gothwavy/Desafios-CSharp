@@ -1,5 +1,7 @@
 ﻿// Programa que le um número inteiro e informe se ele é par ou ímpar. 
 
+Console.Clear();
+
 Console.WriteLine("Digite um numero:");
 int numero = Convert.ToInt32(Console.ReadLine());
 

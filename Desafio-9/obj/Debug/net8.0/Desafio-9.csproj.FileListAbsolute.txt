@@ -1,0 +1,15 @@
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.AssemblyInfoInputs.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.AssemblyInfo.cs
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.sourcelink.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\bin\Debug\net8.0\Desafio-9.exe
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\bin\Debug\net8.0\Desafio-9.deps.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\bin\Debug\net8.0\Desafio-9.runtimeconfig.json
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\bin\Debug\net8.0\Desafio-9.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\bin\Debug\net8.0\Desafio-9.pdb
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\refint\Desafio-9.dll
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.pdb
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\Desafio-9.genruntimeconfig.cache
+D:\Arquivos\Projetos\CSharp\Desafio-CSharp\Desafio-9\obj\Debug\net8.0\ref\Desafio-9.dll

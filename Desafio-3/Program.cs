@@ -1,5 +1,7 @@
 ﻿// Programa que le dois números inteiros e informe qual deles é o maior.
 
+Console.Clear();
+
 Console.WriteLine("Digite um numero:");
 int primeiroNumero = Convert.ToInt32(Console.ReadLine());
 
